@@ -103,20 +103,12 @@ Some repositories are private or still in progress, so this table focuses on the
 ## GitHub metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matichi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matichi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Matichi&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matichi&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matichi&theme=github_dark" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matichi&theme=github_dark" alt="GitHub profile stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matichi&theme=github_dark&utcOffset=-4" alt="Most productive time" />
 </p>
 
 <p align="center">
@@ -125,8 +117,7 @@ Some repositories are private or still in progress, so this table focuses on the
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matichi&theme=github_dark" alt="GitHub profile stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Matichi&theme=github_dark&utcOffset=-4" alt="Most productive time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matichi&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
